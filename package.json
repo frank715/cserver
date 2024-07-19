@@ -1,12 +1,11 @@
 {
   "name": "pmjobs",
   "version": "0.0.0",
-  "main": "index.js",
+  "main": "./bin/www",
   "private": true,
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon ./bin/www"
   },
-  "engines": { "node": "20.x" } ,
   "dependencies": {
     "@aws-sdk/client-s3": "^3.537.0",
     "bcryptjs": "^2.4.3",

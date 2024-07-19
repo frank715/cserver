@@ -1,0 +1,8 @@
+{
+    "name": "WFMS",
+    "version": "0.1.0",
+    "description": "WFMS Api Documentation",
+    "title": "Custom apiDoc browser title",
+    "url" : "http://localhost:5002",
+    "sampleUrl" : "http://localhost:5002"
+  }

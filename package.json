@@ -1,9 +1,10 @@
 {
   "name": "pmjobs",
   "version": "0.0.0",
+  "main": "bin/www",
   "private": true,
   "scripts": {
-    "start": "node ./bin/www"
+    "start": "nodemon bin/www"
   },
   "engines": { "node": "20.x" } ,
   "dependencies": {
